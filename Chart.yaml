@@ -1,0 +1,6 @@
+name: helm-cronjobs
+description: A chart for cron jobs
+version: 0.1
+appVersion: "1.0"
+maintainers:
+  - name: adbk
